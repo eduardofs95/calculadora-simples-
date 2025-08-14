@@ -1,6 +1,6 @@
 # calculadora-simples
 uma calculadora simples que crie com ajuda de algumas pessoas já que estou iniciando dentro do mundo de ADS.
-
+essa calculadora foi criada no código python.
 
 def calculadora():
     print("Bem-vindo à calculadora simples!")
